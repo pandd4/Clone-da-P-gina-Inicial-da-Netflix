@@ -2,6 +2,10 @@
 
 Este é um projeto educacional que replica a página inicial da Netflix utilizando **HTML** e **CSS** puros, com elementos interativos simples.
 
+filmes![image](https://github.com/user-attachments/assets/7a1686bb-863c-4c24-bc3e-21ba1782f253)
+login![image](https://github.com/user-attachments/assets/7f38fafd-d3a4-4789-a741-bbf094d3ed65)
+
+
 ## ✅ Funcionalidades
 
 - Layout responsivo inspirado na Netflix oficial
