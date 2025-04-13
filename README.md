@@ -40,6 +40,7 @@ As imagens são utilizadas apenas com finalidade didática e pertencem aos respe
 
 Esse projeto foi criado para praticar os conceitos de **HTML**, **CSS** e estruturação de layout responsivo, simulando uma interface familiar e popular da web moderna.
 
+## 📎 Link de teste/projeto: https://codepen.io/Amanda-Santos-the-builder/pen/VYwoxyM
 ---
 
 **Desenvolvido com 🤍 por Pandd4.**
